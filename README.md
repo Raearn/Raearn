@@ -7,9 +7,7 @@
   </a>
 </div>  
 
-![1299677-min](https://github.com/Raearn/Raearn/assets/112812451/ecdb5f20-c4b9-438f-b587-1176129b37f4)
-
-<p align="center">An aspiring full-stack developer and full-time procrastinator from the Philippines.</p>
+<p align="center">An aspiring full-stack developer from the Philippines.</p>
 
 ---
 
